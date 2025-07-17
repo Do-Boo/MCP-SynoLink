@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/do-boo-mcp-synolink-badge.png)](https://mseep.ai/app/do-boo-mcp-synolink)
+
 # SynoLink MCP Server
 
 A Node.js server implementing Model Context Protocol (MCP) for Synology NAS file operations. This server allows you to interact with your Synology NAS device through Claude or other compatible AI assistants.
